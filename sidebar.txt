@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[was:home|Door43 (was)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-was|d43-was repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-was/archive/master.zip|d43-was.zip]]
+
+**Recent Changes**
+{{changes>ns = was}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/was|Ethnologue data]]
+
